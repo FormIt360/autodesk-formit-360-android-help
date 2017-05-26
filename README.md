@@ -1,1 +1,2 @@
-This book was generated automatically by Mode Lab.
+Welcome to the help documentation for Autodesk FormIt on Android
+
